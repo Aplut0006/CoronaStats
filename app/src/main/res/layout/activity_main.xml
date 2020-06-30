@@ -56,7 +56,7 @@
                         android:layout_height="wrap_content"
                         android:paddingLeft="10dp"
                         android:textAlignment="viewStart"
-                        android:text="Total Cases" />
+                        android:text="Total Case" />
 
 
                 </LinearLayout>
